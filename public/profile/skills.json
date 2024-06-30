@@ -1,0 +1,67 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/htmlandcss.png",
+                    "title": "HTML and CSS"
+                }, 
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/mongodb.png",
+                    "title": "Mongo DB"
+                },
+                {
+                    "icon": "images/skills/sqlserver.png",
+                    "title": "Micresoft SQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/redux.png",
+                    "title": "Redux"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                }
+            ]
+    }
+]}

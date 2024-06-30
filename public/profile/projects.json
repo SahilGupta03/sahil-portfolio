@@ -1,0 +1,144 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolioimages.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in **React Js**\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/caaring-poster.png",
+            "title": "Code-Pen",
+            "bodyText": "- A web application that developed in **react js**.\n - In this we use **hook**, **redux**, **state** etc.\n - In this we write **HTML**,**CSS** and **JS** code at run time output",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SahilGupta03/code-pen"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://caaring.herokuapp.com"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "BootStrap",
+                "SendGrid",
+                "Heroku",
+                "Gunicorn",
+                "VIT"
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "Neet Preparation App",
+            "bodyText": "- An Android App that help for Medical Student for Clearing NEET Exam.\n - This application is developed in **Core java** and **firebase** in Android Studio.\n - In this app last 15 year Previous question Paper and important topic  question acc to their chapter.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SahilGupta03/Neet-Preparation"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "XML",
+                "Firebase"
+            ]
+        },
+        {
+            "title": "Chat App",
+            "bodyText": "- An Android App that allows users to send texts in real time.\n - Uses **Firebase** database to store texts.\n - User send Friend Request to add user in chat list.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SahilGupta03/chat-app"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Firebase",
+                "RSA"
+            ]
+        },
+        {
+            "title": "Face Detection Music Player",
+            "bodyText": "- An Android App that play viedo acc to your eye.\n - In this we use third Party libary",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SahilGupta03/face-detection-music-player"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android","XML"
+            ]
+        },
+        {
+            "title": "Feed List App",
+            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Paging 3",
+                "Coroutines",
+                "Flow"
+            ]
+        },
+        {
+            "title": "Task Tracker",
+            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Image Encryption/Decryption",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "SDES",
+                "Cryptography"
+            ]
+        }
+    ]
+}

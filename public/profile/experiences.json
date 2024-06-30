@@ -1,0 +1,52 @@
+{
+    "experiences": [
+        {
+            "title": "Software Developer Training",
+            "subtitle": "Spice Tech (Spicejet)",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** new product.",
+                "One was a group booking took htis help for agent and internal department to make group booking",
+                "Second was a MessageDashboard in this full stack development and i use react, nodejs, sql."
+            ],
+            "dateText": "06/20XX – Present"
+        },
+        {
+            "title": "Intership",
+            "subtitle": "Spice Tech (Spicejet)",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on React js",
+                "Finding bug in website anf fix it"
+            ],
+            "dateText": "06/20XX – Present"
+        },
+        {
+            "title": "Android Developer",
+            "subtitle": "Tractor Junction",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on inter tool and bug fix."
+            ],
+            "dateText": "01/2022 – 06/2022"
+        },
+        {
+            "title": "Android Development - Associate",
+            "subtitle": "The Entrepreneurship Network",
+            "workType": "Internship",
+            "workDescription": [
+                "In this course i work on Android studio, In this developed so news app, chat app etc.."
+            ],
+            "dateText": "10/2021 – 12/2021"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "INTERNSHALA Online Course",
+            "workType": "Internship",
+            "workDescription": [
+                "In this course i work on html,css,js"
+            ],
+            "dateText": "09/2021 – 10/2021"
+        }
+    ]
+}

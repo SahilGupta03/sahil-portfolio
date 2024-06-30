@@ -1,0 +1,23 @@
+{
+    "education":[
+        {
+            "title": "Aug 2018 - Jun 2022",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"RAO PAHLAD SINGH GROUP OF INSTITUTIONS ",
+            "cardDetailedText": "Percentage-70%"
+          
+        },
+        {
+            "title": "Apr 2018",
+            "cardTitle": "12th",
+            "cardSubtitle":"Aishly Public School, Ateli Mandi",
+            "cardDetailedText": "Percentage-62%"
+        },
+        {
+            "title": "Apr 2016",
+            "cardTitle": "10th",
+            "cardSubtitle":"Aishly Public School, Ateli Mandi",
+            "cardDetailedText": "CGPA: 9/10"
+        }
+    ]
+}

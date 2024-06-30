@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/sahil-gupta-169759190"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/SahilGupta03"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:Sahil84330@gmail.com"
+        }
+    ]
+}
